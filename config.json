@@ -1,0 +1,14 @@
+{
+    "lm_studio": {
+        "api_base": "http://localhost:1234/v1",
+        "model": "default-model"
+    },
+    "voice": {
+        "rate": 150,
+        "volume": 1.0,
+        "voice_id": "default"
+    },
+    "search": {
+        "max_results": 5
+    }
+}
